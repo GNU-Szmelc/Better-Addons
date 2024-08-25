@@ -1,0 +1,192 @@
+{
+	"all": {
+		"configs": {
+			"case": false,
+			"exact": true,
+			"regex": false
+		},
+		"general": {
+			"addContextMenu": true
+		},
+		"places": {
+			"normal": true,
+			"edit": true
+		},
+		"words": {
+			"/arch": {
+				"replace": "https://i.imgur.com/m48DDmb.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/chems": {
+				"replace": "https://i.imgur.com/gRcyZuh.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/concern": {
+				"replace": "https://i.imgur.com/0OlV9Tv.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/cry": {
+				"replace": "https://i.imgur.com/Cz0LXIU.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/dfens": {
+				"replace": "https://i.imgur.com/RwAXuEO.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/dobrze": {
+				"replace": "https://i.imgur.com/Dt7jSjJ.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/haxy": {
+				"replace": "https://i.imgur.com/OJDVYAY.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/hmm": {
+				"replace": "( ͠• ͜ʖ ͡•)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/honks": {
+				"replace": "https://i.imgur.com/MmPlDQy.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/invest": {
+				"replace": "https://i.imgur.com/yxWJygy.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/kutasa": {
+				"replace": "https://i.imgur.com/Mrc2AQW.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/lenny": {
+				"replace": "( ͡° ͜ʖ ͡°)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/lenny2": {
+				"replace": "( ͡• ͜ʖ ͡• )",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/lenny3": {
+				"replace": "( ͡◉ ͜ʖ ͡◉)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/love": {
+				"replace": "( ͡♥ ͜ʖ ͡♥)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/mmm": {
+				"replace": "(˵ ͡° ͜ʖ ͡°˵)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/nieno": {
+				"replace": "https://i.imgur.com/5gw5wfR.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/nothing": {
+				"replace": "­­­­­­­­",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/pepewtf": {
+				"replace": "https://i.imgur.com/J3fAD1g.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/puchalke": {
+				"replace": "https://i.imgur.com/f3Z6zoG.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/ruchanie": {
+				"replace": "https://i.imgur.com/JlNEyb3.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/ruchanie2": {
+				"replace": "https://i.imgur.com/S9RiGwV.jpeg",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/tuxwtf": {
+				"replace": "https://i.imgur.com/BwgIg7b.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/urnext": {
+				"replace": "https://i.imgur.com/YMSC6nb.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/wink": {
+				"replace": "( ͡~ ͜ʖ ͡°)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/woken": {
+				"replace": "https://i.imgur.com/pMOwhQT.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/wtf": {
+				"replace": "https://i.imgur.com/ZeGJrE1.png",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"/wut": {
+				"replace": "( ﾟーﾟ)",
+				"case": false,
+				"exact": true,
+				"regex": false
+			},
+			"szmelc:url": {
+				"replace": "https://serainox420.github.io/",
+				"case": false,
+				"exact": true,
+				"regex": false
+			}
+		}
+	}
+}
